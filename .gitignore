@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore sensitive configuration files
+config.json
+.env
+
+# Ignore system files
+__pycache__/
+.DS_Store
